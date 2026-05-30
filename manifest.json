@@ -1,0 +1,16 @@
+{
+  "name": "CCEA Atlas",
+  "short_name": "Atlas",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06070f",
+  "theme_color": "#06070f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
